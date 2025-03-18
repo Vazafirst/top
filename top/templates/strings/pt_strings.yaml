@@ -55,7 +55,7 @@ streak: sequência de dias
 
 about_header: Sobre
 about_section: >-
-     <p>Leia o <a href="http://top.hatnote.com/en/wikipedia">arquivo</a>.</p>
+     <p>Leia o <a href="http://top.hatnote.com/pt/wikipedia">arquivo</a>.</p>
 
      <p>Uma lista diária dos artigos mais visitados da Wikipédia, gerada
      por <a href="https://twitter.com/sklaporte">Stephen LaPorte</a>
@@ -78,7 +78,6 @@ about_section: >-
      e nos avise se puder ajudar a traduzir os templates.</p>
 
      <p><a href="https://twitter.com/hatnotable">@hatnotable</a></p>
-     <p>Leia o <a href="http://top.hatnote.com/en/wikipedia">arquivo</a>.</p>
 
 #-------
 # Tweets
